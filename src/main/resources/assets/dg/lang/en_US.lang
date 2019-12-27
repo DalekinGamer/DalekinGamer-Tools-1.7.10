@@ -1,0 +1,94 @@
+#CREATIVETAB
+itemGroup.dgTab=Dg Tools
+itemGroup.dgTabConstruction=Dg Construction
+
+#BLOCKS
+tile.ItemBlockOsmiumOre.name=Osmium Ore
+tile.ItemBlockBlackOsmiumOre.name=Black Osmium Ore
+tile.ItemBlockRedOsmiumOre.name=Red Osmium Ore
+tile.ItemBlockMithrilOre.name=Mithril Ore
+
+#BLOCKS CONSTRUCTION
+tile.ItemConcreteBlock.name=Concrete Block
+
+#ITEMS
+item.ItemSimple.0.name=Mystical Shard
+item.ItemSimple.1.name=
+item.ItemSimple.2.name=
+item.ItemSimple.3.name=Osmium Ingot
+item.ItemSimple.4.name=Osmium Nugget
+item.ItemSimple.5.name=Black Osmium Ingot
+item.ItemSimple.6.name=Black Osmium Nugget 
+item.ItemSimple.7.name=Red Osmium Ingot
+item.ItemSimple.8.name=Red Osmium Nugget
+item.ItemSimple.9.name=Mithril Ingot
+item.ItemSimple.10.name=Mithril Nugget
+
+#TOOLS
+item.ItemOsmiumSword.name=Osmium Sword
+item.ItemOsmiumPickaxe.name=Osmium Pickaxe
+item.ItemOsmiumAxe.name=Osmium Axe
+item.ItemOsmiumHoe.name=Osmium Hoe
+item.ItemOsmiumShovel.name=Osmium Shovel
+
+item.ItemBlackOsmiumSword.name=Black Osmium Sword
+item.ItemBlackOsmiumPickaxe.name=Black Osmium Pickaxe
+item.ItemBlackOsmiumAxe.name=Black Osmium Axe
+item.ItemBlackOsmiumHoe.name=Black Osmium Hoe
+item.ItemBlackOsmiumShovel.name=Black Osmium Shovel
+
+#TOOLS IC2
+item.ItemRedOsmiumPickaxe.name=Red Osmium Pickaxe
+item.ItemRedOsmiumSword.name=Red Osmium Sword
+
+#TOOLS SPECIALS
+item.ItemThorHammer.name=Thor Hammer
+
+#TREES
+tile.ItemBlockMysticalwoodSapling.name=Mysticalwood Sapling
+tile.ItemBlockMysticalwoodLeaves.name=Mysticalwood Leaves
+tile.ItemBlockMysticalwoodPlanks.name=Mysticalwood Planks
+tile.ItemBlockMysticalwoodLog.name=Mysticalwood Log
+
+#WANDS
+item.ItemMysticalwoodWandRod.0.name=Mysticalwood Rod
+item.ItemMysticalwoodWandRod.1.name=Mysticalwood Staff Core
+
+item.ItemOsmiumWandCap.0.name=Inert Osmium Cap
+item.ItemOsmiumWandCap.1.name=Charged Osmium Cap
+
+item.ItemBlackOsmiumWandCap.0.name=Inert Black Osmium Cap
+item.ItemBlackOsmiumWandCap.1.name=Charged Black Osmium Cap
+
+item.Wand.osmium.cap=Osmium Banded
+item.Wand.blackosmium.cap=Black Osmium Stunned
+
+item.Wand.mysticalwood.rod=Mysticalwood
+
+
+
+#ARMOR
+item.ItemBlackOsmiumHelmet.name=Black Osmium Helmet
+item.ItemBlackOsmiumChestplate.name=Black Osmium Chestplate
+item.ItemBlackOsmiumLeggings.name=Black Osmium Leggings
+item.ItemBlackOsmiumBoots.name=Black Osmium Boots
+
+item.ItemMithrilArmorHelmet.name=Mithril Helmet
+item.ItemMithrilArmorLeggings.name=Mithril Leggings
+item.ItemMithrilArmorChestplate.name=Mithril Chestplate
+item.ItemMithrilBoots.name=Mithril Boots
+
+
+
+#RESEARCH=========================================================================================================================================
+
+tc.research_category.DGT=DGTools
+
+#DGTOOLS
+dg.name.ROD_mysticalwood=Mysticalwood Wand Rod
+dg.tag.ROD_mysticalwood=Repository of magical energy
+dg.text.ROD_mysticalwood.1=Mysticalwood has proved to be an excellent repository of magical energy, and wand cores crafted from it can store up to 1500 vis of each type.
+
+dg.name.CAP_osmium=Osmium Wand Caps
+dg.tag.CAP_osmium=A new style
+dg.text.CAP_osmium.1=Osmium It is known for its ability to store and absorb magic, so using it to make wands is a logical choice. She is very effective at focusing on vis of all kinds.
